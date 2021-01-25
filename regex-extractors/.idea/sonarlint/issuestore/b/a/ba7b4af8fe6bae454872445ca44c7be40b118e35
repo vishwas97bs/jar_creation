@@ -1,9 +1,0 @@
-
->
-java:S1170"!Make this final field static too.(·”¾ß8¡µÔ£ò.
-C
-java:S1170"!Make this final field static too.(³ý®ñúÿÿÿÿ8¡µÔ£ò.
-	java:S116"cRename this field "DateFormatRegex_DD_MM_YY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·”¾ß8¡µÔ£ò.
-L
-java:S1066."/Merge this if statement with the enclosing one.(¥ð·®8¡µÔ£ò.
-„	java:S116"cRename this field "DateFormatRegex_MM_DD_YY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ý®ñúÿÿÿÿ8¡µÔ£ò.

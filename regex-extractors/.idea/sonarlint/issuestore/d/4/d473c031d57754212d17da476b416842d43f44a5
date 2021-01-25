@@ -1,12 +1,0 @@
-
-M
-java:S2589+"7Remove this expression which always evaluates to "true"(ÓŸÃ¤
-‹
-java:S4165"pRemove this useless assignment; "bannedLanguagesMap" already holds the assigned value along all execution paths.(‹ùóùÿÿÿÿ
-M
-java:S2589"7Remove this expression which always evaluates to "true"(àÁÕ
-‹
-java:S4165G"pRemove this useless assignment; "bannedLanguagesMap" already holds the assigned value along all execution paths.(ûˆï×ûÿÿÿÿ
-M
-java:S1135""2Complete the task associated to this TODO comment.(­®ü£ıÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤®Şİ
