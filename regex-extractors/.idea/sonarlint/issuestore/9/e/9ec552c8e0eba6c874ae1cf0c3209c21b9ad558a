@@ -1,0 +1,17 @@
+
+Q
+java:S1444"6Make this "public static IMAGE_SERVER_KEY" field final(ô«¤Äøÿÿÿÿ
+X
+java:S1444	"=Make this "public static IMAGE_SERVER_STATUS_KEY" field final(˜Àñ¿üÿÿÿÿ
+w
+java:S1104"\Make IMAGE_SERVER_KEY a static final constant or non-public and provide accessors if needed.(ô«¤Äøÿÿÿÿ
+~
+java:S1104	"cMake IMAGE_SERVER_STATUS_KEY a static final constant or non-public and provide accessors if needed.(˜Àñ¿üÿÿÿÿ
+v
+java:S3008"[Rename this field "IMAGE_SERVER_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô«¤Äøÿÿÿÿ
+}
+java:S3008	"bRename this field "IMAGE_SERVER_STATUS_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Àñ¿üÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(üêÄúÿÿÿÿ
+2
+java:S1116"Remove this empty statement.(ó³Ÿ®

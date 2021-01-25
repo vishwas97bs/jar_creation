@@ -1,0 +1,18 @@
+
+F
+java:S11254")Remove the literal "false" boolean value.(Á¹½Ã8ÕäÃó.
+>
+java:S1116"Remove this empty statement.(Ÿ±¨şÿÿÿÿ8ÕäÃó.
+^	java:S107+"BConstructor has 10 parameters, which is greater than 7 authorized.(ËÒğæ8ÕäÃó.
+E
+java:S11252")Remove the literal "false" boolean value.(Šëó8ÕäÃó.
+F
+java:S11255")Remove the literal "false" boolean value.(Õ„ùÜ8ÕäÃó.
+J
+java:S11253"(Remove the literal "true" boolean value.(È»üüıÿÿÿÿ8ÕäÃó.
+E
+java:S11257")Remove the literal "false" boolean value.(ºÚ8ÕäÃó.
+K
+java:S11258")Remove the literal "false" boolean value.(èëŸêıÿÿÿÿ8ÕäÃó.
+F
+java:S11256")Remove the literal "false" boolean value.(èÚä²8ÕäÃó.

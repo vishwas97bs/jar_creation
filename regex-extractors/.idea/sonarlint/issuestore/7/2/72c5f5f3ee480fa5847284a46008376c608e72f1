@@ -1,0 +1,15 @@
+
+g	java:S116"MRename this field "Y2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€®»¡ýÿÿÿÿ
+g	java:S116!"MRename this field "X4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚½Ÿþýÿÿÿÿ
+b	java:S116"MRename this field "X3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ž‡ë
+g	java:S116"MRename this field "X2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò‰à›ÿÿÿÿÿ
+g	java:S116"MRename this field "Y1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¾íæÿÿÿÿÿ
+g	java:S116 "MRename this field "Y3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷×ÿ³ýÿÿÿÿ
+]
+java:S1126•"AReplace this if-then-else statement by a single return statement.(íòÃëúÿÿÿÿ
+a	java:S116""MRename this field "Y4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Úä
+a	java:S116"MRename this field "X1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…±ê2
+W
+java:S1161u":Add the "@Override" annotation above this method signature(‚¾ŠÄ8”ÑÏÄó.
+E
+java:S2093["*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

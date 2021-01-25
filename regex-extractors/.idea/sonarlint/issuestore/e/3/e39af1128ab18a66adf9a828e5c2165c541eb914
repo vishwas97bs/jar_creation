@@ -1,0 +1,62 @@
+
+:
+java:S1643Œ"Use a StringBuilder instead.(İ§ÒÊ8µçÆó.
+:
+java:S1643ÿ"Use a StringBuilder instead.(İ§ÒÊ8µçÆó.
+C
+java:S1659º" Declare "b2" on a separate line.(×¨ù‡üÿÿÿÿ8‰ñÆó.
+R
+java:S1066ó"/Merge this if statement with the enclosing one.(»¨äòıÿÿÿÿ8µçÆó.
+u	java:S127ˆ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8µçÆó.
+t	java:S127“"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8µçÆó.
+v	java:S135°"YReduce the total number of break and continue statements in this loop to use at most one.(­úšÃ8µçÆó.
+u	java:S127·"XRefactor the code in order to not assign to this loop counter from within the loop body.(ôŠÉ»8µçÆó.
+M
+java:S1066²"/Merge this if statement with the enclosing one.(Ø÷Úû8µçÆó.
+l
+java:S1192‚"IDefine a constant instead of duplicating this literal "vertices" 7 times.(óŒ Şúÿÿÿÿ8µçÆó.
+t
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÔÖøşûÿÿÿÿ8µçÆó.
+u	java:S127¼"XRefactor the code in order to not assign to this loop counter from within the loop body.(ôŠÉ»8µçÆó.
+_
+java:S1854¿"<Remove this useless assignment to local variable "response".(ÁÑšãıÿÿÿÿ8µçÆó.
+g
+java:S2583ó"DChange this condition so that it does not always evaluate to "false"(»¨äòıÿÿÿÿ8µçÆó.
+p
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Ÿºñ8µçÆó.
+u
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(îìÙõøÿÿÿÿ8µçÆó.
+t	java:S127•"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8µçÆó.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(„™€8µçÆó.
+g
+java:S3518–"DMake sure "totalCharCount" can't be zero before doing this division.(…‡Şûÿÿÿÿ8µçÆó.
+P
+java:S1135İ"2Complete the task associated to this TODO comment.(¸Ÿƒé8µçÆó.
+|
+java:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê¨ƒ¿ÿÿÿÿÿ8µçÆó.
+j
+java:S1192š"LDefine a constant instead of duplicating this literal "description" 4 times.(ÃËŠ÷8µçÆó.
+p
+java:S1192‚"MDefine a constant instead of duplicating this literal "boundingPoly" 7 times.(óŒ Şúÿÿÿÿ8µçÆó.
+u	java:S127Ë"XRefactor the code in order to not assign to this loop counter from within the loop body.(ôŠÉ»8µçÆó.
+
+java:S1488µ"^Immediately return this expression instead of assigning it to the temporary variable "vertex".(˜‡°şÿÿÿÿ8µçÆó.
+u	java:S127¿"XRefactor the code in order to not assign to this loop counter from within the loop body.(ôŠÉ»8µçÆó.
+z
+java:S2259Û"W"NullPointerException" will be thrown when invoking method "getRotationAngleOfImage()".(ƒ¥»ôøÿÿÿÿ8µçÆó.
+T
+java:S2589Ó"7Remove this expression which always evaluates to "true"(¤ô£Q8µçÆó.
+u	java:S127Î"XRefactor the code in order to not assign to this loop counter from within the loop body.(ôŠÉ»8µçÆó.
+t
+java:S3776k"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(îñ¦ºùÿÿÿÿ8µçÆó.
+S
+java:S1659»"0Declare "block2BottomVertex" on a separate line.(¿«­Óùÿÿÿÿ8µçÆó.
+Z
+java:S1854ƒ"7Remove this useless assignment to local variable "sum".(ğı…³ûÿÿÿÿ8µçÆó.
+Q
+java:S1144½".Remove this unused private "getMedian" method.(á±ÒÑşÿÿÿÿ8µçÆó.
+t	java:S127†"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8µçÆó.
+u	java:S127Ç"XRefactor the code in order to not assign to this loop counter from within the loop body.(ôŠÉ»8µçÆó.
+p
+java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(à›‰À8µçÆó.

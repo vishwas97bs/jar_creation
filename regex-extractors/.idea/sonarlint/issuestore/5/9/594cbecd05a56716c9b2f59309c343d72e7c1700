@@ -1,0 +1,11 @@
+
+j
+java:S5361w"HReplace this call to "replaceAll()" by a call to the "replace()" method.(³¥İ£ıÿÿÿÿ8Îà©Åó.
+t
+java:S3776n"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Óˆ•’ÿÿÿÿÿ8Îà©Åó.
+^
+java:S5361v"HReplace this call to "replaceAll()" by a call to the "replace()" method.(÷‡¥Ü
+`
+java:S1874x">Remove this use of "getLevenshteinDistance"; it is deprecated.(İÇ…şÿÿÿÿ8Îà©Åó.
+8
+java:S3626|"Remove this redundant jump.(ÉŠ©ƒ8Îà©Åó.

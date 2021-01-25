@@ -1,0 +1,15 @@
+
+h
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ϊιγµ
+M
+java:S1135"2Complete the task associated to this TODO comment.(΅Χρύÿÿÿÿ
+J
+java:S1481".Remove this unused "!unknown!" local variable.(ϊΪΚ§ϋÿÿÿÿ
+h
+java:S3776u"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ϊ δ”
+o	java:S135΄"YReduce the total number of break and continue statements in this loop to use at most one.(¦ΰε†
+H
+java:S1135"2Complete the task associated to this TODO comment.(ΏΡÿ 
+W	java:S125Φ"<This block of commented-out lines of code should be removed.(ªίΏέϋÿÿÿÿ
+p
+java:S2259¶"Z"NullPointerException" will be thrown when invoking method "getLineCoordinatesFromText()".(‚‚;

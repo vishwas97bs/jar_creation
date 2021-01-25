@@ -1,0 +1,9 @@
+
+k
+java:S3824g"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ÿ‘Åì8ç§«£Ú.
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(‘Œò'8ç§«£Ú.
+k
+java:S3824j"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(˚Ã˘é8ç§«£Ú.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö≈»ü8ç§«£Ú.
